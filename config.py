@@ -7,7 +7,7 @@ from pyrogram import filters
 load_dotenv()
 
 API_ID = int(getenv("API_ID", "22947486"))
-API_HASH = getenv("API_HASH", "8dd4fdb161d4db0b7e3c9125face91e4)
+API_HASH = getenv("API_HASH", "8dd4fdb161d4db0b7e3c9125face91e4")
 BOT_PRIVACY = getenv("BOT_PRIVACY", "https://telegra.ph/Privacy-Policy-for-lumimaxprobot-10-06")
 BOT_TOKEN = getenv("BOT_TOKEN", "7950194495:AAGZXkp45pJNlJvswNZKOlaSkDHxZWhqkXs")
 
